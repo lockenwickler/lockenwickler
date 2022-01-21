@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lockenwickler
-- 👀 I’m interested in fun elektronic stuff and feminism ...
+- 👀 I’m interested in fun electronic stuff and feminism ...
 - 🌱 I’m currently Python, sonic pi.
 
 <!---
